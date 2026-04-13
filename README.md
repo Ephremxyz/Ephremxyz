@@ -1,27 +1,25 @@
-# Hi there! ![GIF](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm EPHREM GETACHEW 
+# <h1 align="center">![GIF](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi there, I’m Ephrem Getachew </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ephremxyz&label=Profile%20views&color=0e75b6&style=flat" alt="Ephrem-Getachew" /> </p>
+<h3 align="center">Software Developer | UI/UX Designer</h3>  
+
+---
 
 ## 🌐 About me:
-<p> I'm a passionate Full Stack Developer with expertise in the MERN/PERN stack. I have a deep love for TypeScript and enjoy using Tailwind CSS to create stunning websites. Additionally, I'm an experienced UX researcher, and UI designer. I use Adobe XD and Figma for designing, ensuring exceptional user experiences.  </p>
+<p> I'm a passionate Full Stack Developer with 3+ years experience in the MERN/PERN stack. I have a deep love for TypeScript and enjoy using Tailwind CSS to create stunning websites. Additionally, I'm an experienced UX researcher, and UI designer. I use Adobe XD and Figma for designing, ensuring exceptional user experiences.  </p>
 
-
-- 👜 Some of UI/UX Designing projects are available at My [Behance Profile](https://www.behance.net/ephremgetachew) <br>
-
-- 🌐 Check out my portfolio [here]()<br>
-
-- ✉️ Contact me at [gephrem130@gmail.com](mailto:gephrem130@gmail.com) <br>
-
-- 🤝 Open to collaborating on interesting projects <br>
-
-- 👨‍💻 All of my Coding projects are available at My [Github Profile](https://github.com/Ephremxyz) <br>   
-   
 ---
 
 ### Skills 
 **Frontend**: JavaScript · TypeScript · React · Next.js · Redux/RTK · Zustand  
 **UI/UX**: TailwindCSS · MUI · Mantine · Shadcn UI · Bootstrap · React-Hook-Form · Zod  
 **Backend/Tools**: Supabase · Axios · REST APIs · Git · Agile Practices 
+
+---
+
+### Projects   
+- **UI Portfolio** – [Behance Showcase](https://www.behance.net/ephremgetachew)  
+- **Open Source** – Explore pinned repos on [GitHub](https://github.com/Ephremxyz)  
+- **Videos** - Check On [YouTube](https://www.youtube.com/@Ephremxyz)
 
 ---
 
