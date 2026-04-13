@@ -28,6 +28,10 @@
 **UI/UX**: TailwindCSS · MUI · Mantine · Shadcn UI · Bootstrap · React-Hook-Form · Zod  
 **Backend/Tools**: Supabase · Axios · REST APIs · Git · Agile Practices 
 
+---
+
 ### 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ephremxyz&theme=dark&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ephremxyz&layout=compact&theme=dark&hide_border=false) 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ephremxyz&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ephremxyz&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
