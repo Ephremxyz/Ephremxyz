@@ -16,12 +16,7 @@
 
 - 👨‍💻 All of my Coding projects are available at My [Github Profile](https://github.com/Ephremxyz) <br>   
    
-## 🌐 Social Presence:    
-  
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/ephremgetachew) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ephremxyx)
-[![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=telegram&logoColor=white)](https://t.me/Ephremxyz)   
-[![Instagram](https://img.shields.io/badge/Instagram-%230077B5.svg?logo=instagram&logoColor=white)](https://www.instagram.com/ephremxyz)
+---
 
 ### Skills 
 **Frontend**: JavaScript · TypeScript · React · Next.js · Redux/RTK · Zustand  
@@ -33,3 +28,12 @@
 ### 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ephremxyz&theme=dark&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ephremxyz&layout=compact&theme=dark&hide_border=false) 
+
+---
+
+### 🤝 Let’s Connect  
+- 📄 [View Resume]()  
+- 💌 [Email Me](mailto:gephrem130@.com)  
+- 🌐 [LinkedIn](https://linkedin.com/in/ephremxyx) | [Telegram](https://t.me/Ephremxyz) | [Behance](https://behance.net/Ephremxyz)  
+
+---
