@@ -51,18 +51,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40">
 </div>
 
-### Version Control and Development Tools:
-<div style="display: flex; align-items: center;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio Code" width="40" height="40">
-</div>
-
-### Operating Systems and Servers:
-<div style="display: flex; align-items: center;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40">
-</div>
-
 ### Contributuon:
 
 [![Ephrem's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ephremxyz&theme=dracula)](https://github.com/Ephremxyz/github-readme-activity-graph)
